@@ -6,6 +6,8 @@ public class CharAtExample
 		String myStr = "Hello";
 		char result = myStr.charAt(0);
 		System.out.println(result);
+		
+		System.out.println("saras");
 	}
 }
 

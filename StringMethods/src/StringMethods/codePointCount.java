@@ -6,6 +6,7 @@ public class codePointCount {
 		    String myStr = "Hello";
 		    int result = myStr.codePointCount(0, 5);
 		    System.out.println(result);
+		    System.out.println("Saras changed");
 		  }
 		
 
