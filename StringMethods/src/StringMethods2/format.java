@@ -12,7 +12,7 @@ public class format {
 		System.out.println(sf1);  
 		System.out.println(sf2);  
 		System.out.println(sf3);
-
+System.out.println("hi");
 	}
 
 }
