@@ -7,6 +7,7 @@ public class endWith {
 		    System.out.println(myStr.endsWith("Hel"));
 		    System.out.println(myStr.endsWith("llo"));
 		    System.out.println(myStr.endsWith("o"));
+		    System.out.println("muthu ");
 		  }
 		}
 
